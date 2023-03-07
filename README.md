@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelduartep&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelduartep&layout=compact&langs_count=10&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rafaelduartep&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelduartep&layout=compact&langs_count=10&theme=dark&hide_border=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
@@ -35,5 +34,15 @@ Olá, meu nome é Rafael e sou um desenvolvedor de software full-stack com exper
 
 Hello, my name is Rafael and I am a full-stack software developer with experience in various programming languages, including Java, Python, and JavaScript. I am passionate about technology and am constantly seeking new ways to expand my knowledge and skills in the field. My projects range from back-end and front-end solutions to data science projects. In addition, I am an enthusiast of emerging technologies and have been working on personal projects in this area. I am also an advocate for open-source software and contribute to open-source projects whenever possible. I am always willing to learn new things and am driven by technical challenges.
  
-<!-- ![ Animação de cobra ](https://github.com/jullysilva/jullysilva/blob/output/github-contribution-grid-snake.svg) -->
+## Top Projects
+ 
+ <div align="start">
+  <a href="https://github.com/rafaelduartep/responsify-css" target="_blank">
+<img height="100%" src="https://github-readme-stats.vercel.app/api/pin?username=rafaelduartep&repo=responsify-css&theme=dark&hide_border=true"/>
+  </a>
+</div>
+
+##
+
+![ Animação de cobra ](https://github.com/rafaelduartep/rafaelduartep/blob/output/github-contribution-grid-snake.svg)
  
