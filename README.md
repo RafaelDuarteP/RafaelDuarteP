@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div>
-  <img align="right" alt="Rafa-pic" height="250" src="https://raw.githubusercontent.com/RafaelDuarteP/RafaelDuarteP/output/my-avatar.png">
+  <img align="right" alt="Rafa-pic" height="250" src="./my-avatar/my-avatar.png">
 </div>
 
 ## Sobre mim
