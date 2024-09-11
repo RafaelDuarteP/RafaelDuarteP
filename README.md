@@ -45,7 +45,4 @@ Hello, my name is Rafael and I am a student and full-stack software developer wi
   </a>
 </div>
 
-##
-
-![ Animação de cobra ](https://github.com/rafaelduartep/rafaelduartep/blob/output/github-contribution-grid-snake.svg)
  
