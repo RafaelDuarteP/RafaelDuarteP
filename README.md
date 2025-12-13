@@ -11,16 +11,16 @@
   <a href="https://www.linkedin.com/in/rafaelduartep" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
  
-Olá, meu nome é Rafael e sou estudante e desenvolvedor de software full-stack com experiência em diversas linguagens de programação, incluindo Java, Python e JavaScript. Sou apaixonado por tecnologia e estou constantemente buscando novas maneiras de expandir meu conhecimento e habilidades na área. Meus projetos variam desde soluções de back-end e front-end, até projetos de ciência de dados. Além disso, sou um entusiasta de tecnologias emergentes e tenho trabalhado em projetos pessoais nessa área. Também sou um defensor do software de código aberto e contribuo para projetos de código aberto sempre que posso. Estou sempre disposto a aprender coisas novas e sou movido por desafios técnicos.
+Olá, meu nome é Rafael e sou desenvolvedor de software full-stack PHP JavaScript com conhecimento em diversas outras linguagens de programação, incluindo Java, Python e Dart. Sou apaixonado por tecnologia e estou constantemente buscando novas maneiras de expandir meu conhecimento e habilidades na área. Meus projetos variam desde soluções de back-end e front-end, até projetos de ciência de dados. Além disso, sou um entusiasta de tecnologias emergentes e tenho trabalhado em projetos pessoais nessa área. Também sou um defensor do software de código aberto e contribuo para projetos de código aberto sempre que posso. Estou sempre disposto a aprender coisas novas e sou movido por desafios técnicos.
 
 ## About me
 
-Hello, my name is Rafael and I am a student and full-stack software developer with experience in various programming languages, including Java, Python, and JavaScript. I am passionate about technology and constantly seeking new ways to expand my knowledge and skills in the field. My projects range from back-end and front-end solutions to data science projects. Additionally, I am an enthusiast of emerging technologies and have been working on personal projects in this area. I am also an advocate for open-source software and contribute to open-source projects whenever I can. I am always willing to learn new things and am driven by technical challenges.
+Hello, my name is Rafael, and I am a full-stack software developer specializing in PHP and JavaScript, with knowledge of several other programming languages, including Java, Python, and Dart. I am passionate about technology and constantly seek new ways to expand my knowledge and skills in the field. My projects range from back-end and front-end solutions to data science initiatives. In addition, I am an enthusiast of emerging technologies and have been working on personal projects in this area. I am also an advocate of open-source software and contribute to open-source projects whenever possible. I am always willing to learn new things and am driven by technical challenges.
+
 
 ##
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rafaelduartep&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelduartep&layout=compact&langs_count=10&theme=dark&hide_border=true"/>
 </div>
 <div style="display: inline_block"><br>
